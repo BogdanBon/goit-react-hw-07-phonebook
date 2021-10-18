@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "id": "id-1",
+      "name": "Elon Musk",
+      "number": "111-222-333"
+    },
+    {
+      "id": "id-2",
+      "name": "James Cameron",
+      "number": "1982-1997-1"
+    },
+    {
+      "id": "id-3",
+      "name": "Danzel Washington",
+      "number": "289-987-090"
+    },
+    {
+      "id": "id-4",
+      "name": "Mr Nobody",
+      "number": "123-321-000"
+    },
+    {
+      "id": "id-5",
+      "name": "George Barnes",
+      "number": "562-874-1234"
+    },
+    {
+      "id": "id-6",
+      "name": "Erwin Star",
+      "number": "714-997-5885"
+    },
+    {
+      "id": "id-7",
+      "name": "Alice Buck",
+      "number": "562-577-1200"
+    },
+    {
+      "id": "id-8",
+      "name": "Frank Borders",
+      "number": "714-968-8201"
+    },
+    {
+      "id": "id-9",
+      "name": "Hanna Diedrich",
+      "number": "562-786-7727"
+    },
+    {
+      "id": "id-10",
+      "name": "Susan Noble",
+      "number": "562-975-3388"
+    }
+  ]
+}
